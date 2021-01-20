@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/qos-protocols/static/css/main.4b37f52b.chunk.css",
+    "main.js": "/qos-protocols/static/js/main.f9e15374.chunk.js",
+    "main.js.map": "/qos-protocols/static/js/main.f9e15374.chunk.js.map",
+    "runtime-main.js": "/qos-protocols/static/js/runtime-main.41df31bf.js",
+    "runtime-main.js.map": "/qos-protocols/static/js/runtime-main.41df31bf.js.map",
+    "static/css/2.ae9f1eb3.chunk.css": "/qos-protocols/static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.2a693291.chunk.js": "/qos-protocols/static/js/2.2a693291.chunk.js",
+    "static/js/2.2a693291.chunk.js.map": "/qos-protocols/static/js/2.2a693291.chunk.js.map",
+    "static/js/3.45e0f6a8.chunk.js": "/qos-protocols/static/js/3.45e0f6a8.chunk.js",
+    "static/js/3.45e0f6a8.chunk.js.map": "/qos-protocols/static/js/3.45e0f6a8.chunk.js.map",
+    "index.html": "/qos-protocols/index.html",
+    "static/css/2.ae9f1eb3.chunk.css.map": "/qos-protocols/static/css/2.ae9f1eb3.chunk.css.map",
+    "static/css/main.4b37f52b.chunk.css.map": "/qos-protocols/static/css/main.4b37f52b.chunk.css.map",
+    "static/js/2.2a693291.chunk.js.LICENSE.txt": "/qos-protocols/static/js/2.2a693291.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41df31bf.js",
+    "static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.2a693291.chunk.js",
+    "static/css/main.4b37f52b.chunk.css",
+    "static/js/main.f9e15374.chunk.js"
+  ]
+}
