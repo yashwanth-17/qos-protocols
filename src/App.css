@@ -1,0 +1,99 @@
+.box {
+  min-height: 100vh;
+  width: 100%;
+}
+
+.sender .title,
+.receiver .title {
+  text-align: center;
+  margin: 20px;
+  font-size: 22px;
+}
+
+.sender {
+  background-color: rgba(0, 204, 255, 0.1);
+}
+
+.receiver {
+  background-color: rgba(180, 20, 30, 0.1);
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 40px;
+}
+
+.inputgrp {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+  width: 270px;
+}
+
+.inputgrp input {
+  margin-top: 5px;
+  outline: none;
+  padding: 5px 10px;
+}
+
+.options {
+  padding: 10px;
+  border: 1px solid lightgrey;
+}
+
+.options p {
+  font-size: 16px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.radiogrp {
+  margin: 10px;
+  margin-left: 20px;
+}
+
+.send {
+  font-size: 16px;
+  text-transform: uppercase;
+  margin: 10px;
+}
+
+.info {
+  position: absolute;
+  left: 50%;
+  top: 40%;
+  transform: translate(-50%, -50%);
+  font-size: 20px;
+  animation: slide-up 0.8s;
+}
+
+.result {
+  text-align: center;
+  font-size: 32px;
+}
+
+.null {
+  display: flex;
+  height: 50vh;
+  justify-content: center;
+  align-items: center;
+}
+
+@media (max-width: 699px) {
+  .box {
+    flex-direction: column;
+  }
+}
+
+@keyframes slide-up {
+  0% {
+    filter: opacity(0);
+    top: 20%;
+  }
+  100% {
+    filter: opacity(1);
+    top: 40%;
+  }
+}
